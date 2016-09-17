@@ -15,5 +15,5 @@ Photshop CS5! で動作確認済み。
 
 **Mac**
 
-以下のディレクトリに `megurock` をコピーしてください。
+以下のディレクトリに `megurock` をコピーしてください。  
 /Applications/Adobe Photoshop CS[バージョン]/Presets/Scripts/  
