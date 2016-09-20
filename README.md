@@ -13,7 +13,10 @@ Photshop CS5! で動作確認済み。
 
 ## インストール
 
-**Mac**
-
 以下のディレクトリに `megurock` をコピーしてください。  
-/Applications/Adobe Photoshop CS[バージョン]/Presets/Scripts/  
+
+**Mac**
+/Applications/Adobe Photoshop [バージョン]/Presets/Scripts/  
+
+**Windows**
+C:\Program Files\Adobe\Adobe Photoshop [バージョン]\Presets\Scripts
